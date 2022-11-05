@@ -1,12 +1,5 @@
-### Hi there 👋
+Hello! I am a new graduate from the aerospace engineering program at Toronto Metropolitan University.
 
-I'm Michal, I'm a recent graduate with a BEng in Aerospace Engineering
-
-Currently working on:
-- Looking for aerospace and software work in Ontario
-- Looking into doing a MEng or MASc in aerospace engineering
-- Writing Python code at [Formify](https://www.formify/).
-- Working on a blog/newsletter on applying engineering simulation and modeling: [Star Coffee](https://michaszj.substack.com/)
-- Working on small software projects (see my repos)
+I'm currently looking for work in the aerospace and software industries in Ontario, as well as looking into doing a MEng or MASc in the spacecraft GN&C field.
 
 More of my work can be found on [my website](https://michaszj.github.io/).
